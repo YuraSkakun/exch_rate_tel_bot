@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.idea/
+*.env
+environment/
+.env
+.venv
+env/
+venv/
+settings_local.py
+local_settings.py
